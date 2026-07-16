@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maryamarif66" target="blank"><img src="https://img.shields.io/twitter/follow/maryamarif66?logo=twitter&style=for-the-badge" alt="maryamarif66" /></a> </p>
 <p align="center">
-  <img src="assets/computer%20science.jpg" alt="Computer Science" width="700">
+  <img src="assets/computer%10science.jpg" alt="Computer Science" width="400">
 </p>
 
 - 🔭 I’m currently learning **🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science | 🗄️ Data Engineering | ✨ Generative AI | 💬 LLMs & RAG | 🤖 AI Agents | ⚡ AI Automation & RPA (n8n) | 🐍 Python | 🗄️ SQL | 📈 Power BI | ☁️ Git & GitHub | 🌐 Frontend Web Development | 🎨 UI/UX Design | 🧪 Software Testing & QA**

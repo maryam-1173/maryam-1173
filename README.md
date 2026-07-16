@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryam-1173" alt="maryam-1173" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/maryamarif66" target="blank"><img src="https://img.shields.io/twitter/follow/maryamarif66?logo=twitter&style=for-the-badge" alt="maryamarif66" /></a> </p>
+<p align="center">
+  <img src="assets/computer%20science.jpg" alt="Computer Science" width="700">
+</p>
 
 - 🔭 I’m currently learning **🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science | 🗄️ Data Engineering | ✨ Generative AI | 💬 LLMs & RAG | 🤖 AI Agents | ⚡ AI Automation & RPA (n8n) | 🐍 Python | 🗄️ SQL | 📈 Power BI | ☁️ Git & GitHub | 🌐 Frontend Web Development | 🎨 UI/UX Design | 🧪 Software Testing & QA**
 

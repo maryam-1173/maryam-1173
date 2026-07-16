@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Ai skin desease detection**
 
-- 💬 Ask me about **👋 Hi, I'm Maryam Arif! I'm a Software Engineering student passionate about building impactful software and continuously learning new technologies. My interests span Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Frontend Web Development, Android Development, UI/UX Design, and Software Testing & Quality Assurance. I enjoy turning ideas into real-world projects, from AI-powered applications and automation workflows to responsive web interfaces and mobile apps. I'm always exploring new tools, contributing to projects, and expanding my skills to become a versatile Software Engineer.**
+- 💬 Ask me about: **👋 Hi, I'm Maryam Arif! I'm a Software Engineering student passionate about building impactful software and continuously learning new technologies. My interests span Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Frontend Web Development, Android Development, UI/UX Design, and Software Testing & Quality Assurance. I enjoy turning ideas into real-world projects, from AI-powered applications and automation workflows to responsive web interfaces and mobile apps. I'm always exploring new tools, contributing to projects, and expanding my skills to become a versatile Software Engineer.**
 
 - 📫 How to reach me **mariyumarif66@gmail.com**
 

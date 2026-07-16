@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Arif</h1>
-<h3 align="center">👩‍💻 Future Software Engineer 🚀 | 🌐 Frontend | 📱 Android | 🤖 AI/ML | ⚙️ Automations | 🎨 UI/UX ✨ Making pretty screens with the best user experience | 🧪 QA & Software Testing</h3>
+<h3 align="center">👩‍💻 Future AI Engineer 🚀 | 🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science | ✨ Generative AI | 💬 LLMs • RAG • AI Agents | ⚙️ AI Automation | 🌐 Frontend Development | 🎨 UI/UX | 🧪 Software Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam-1173&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-1173" /> </p>
 

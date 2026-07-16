@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Arif</h1>
-<h3 align="center">👩‍💻 Future AI Engineer 🚀 | 🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science | ✨ Generative AI | 💬 LLMs • RAG • AI Agents | ⚙️ AI Automation | 🌐 Frontend Development | 🎨 UI/UX | 🧪 Software Testing</h3>
+<h3 align="center">👩‍💻 Future AI & Data Engineer 🚀 | 🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science | 🗄️ Data Engineering | ✨ Generative AI | 💬 LLMs • RAG • AI Agents | ⚙️ AI Automation • RPA | 🌐 Frontend Web | 🎨 UI/UX | 🧪 SQA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam-1173&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-1173" /> </p>
 
@@ -7,21 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/maryamarif66" target="blank"><img src="https://img.shields.io/twitter/follow/maryamarif66?logo=twitter&style=for-the-badge" alt="maryamarif66" /></a> </p>
 
-- 🔭 I’m currently working on **MediscriptAIsystem**
+- 🔭 I’m currently learning **🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science | 🗄️ Data Engineering | ✨ Generative AI | 💬 LLMs & RAG | 🤖 AI Agents | ⚡ AI Automation & RPA (n8n) | 🐍 Python | 🗄️ SQL | 📈 Power BI | ☁️ Git & GitHub | 🌐 Frontend Web Development | 🎨 UI/UX Design | 🧪 Software Testing & QA**
 
 - 🌱 I’m currently learning **💻 Software Engineering | 🌐 Frontend Web Development | 📱 Android Development | 🤖 AI & Generative AI | 🧠 Machine Learning | ⚡ Agentic AI & Automations (n8n, RPA) | 🎨 UI/UX Design | 🧪 Software Testing & QA | 🐍 Python | 🗄️ SQL | 📊 Data Science | 📈 Power BI | ☁️ Git & GitHub**
 
-- 👯 I’m looking to collaborate on **Real or fake job posting**
+- 👯 I’m looking to collaborate on **AI, Machine Learning, Data Science, Generative AI, RAG, AI Agents, and Automation Projects**
 
-- 🤝 I’m looking for help with **Ai skin desease detection**
-
-- 💬 Ask me about: **👋 Hi, I'm Maryam Arif! I'm a Software Engineering student passionate about building impactful software and continuously learning new technologies. My interests span Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Frontend Web Development, Android Development, UI/UX Design, and Software Testing & Quality Assurance. I enjoy turning ideas into real-world projects, from AI-powered applications and automation workflows to responsive web interfaces and mobile apps. I'm always exploring new tools, contributing to projects, and expanding my skills to become a versatile Software Engineer.**
+- 🤝 I’m looking for help with **Computer Vision, Deep Learning, MLOps, Data Engineering, and AI-based Healthcare Projects**
+- 💬 Ask me about: **👋- **🤖 Artificial Intelligence • 🧠 Machine Learning • 📊 Data Science • 🗄️ Data Engineering • ✨ Generative AI • 💬 LLMs & RAG • 🤖 AI Agents • ⚡ AI Automation & RPA (n8n) • 🐍 Python • 🗄️ SQL • 📈 Power BI • 🌐 Frontend Web Development • 🎨 UI/UX Design • 🧪 Software Testing & QA • Git & GitHub**
 
 - 📫 How to reach me **mariyumarif66@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K1Uw3M4z42NSLk1MoJlA2Qv5JnQu4FUL/view?usp=drive_link](https://drive.google.com/file/d/1K1Uw3M4z42NSLk1MoJlA2Qv5JnQu4FUL/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm on a mission to become a Software Engineer who can design, build, test, and automate complete software solution**
+- ⚡ Fun fact **I'm on a mission to build intelligent AI-powered software—from data pipelines and machine learning models to automation workflows and user-friendly applications.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
